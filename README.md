@@ -7,7 +7,7 @@
 I build useful web products and native macOS apps, with a focus on thoughtful interfaces and reliable day-to-day workflows.
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdomo77-181717?style=flat-square&logo=github)](https://github.com/abdomo77)
-[![NotchRobot](https://img.shields.io/badge/Featured%20project-NotchRobot-39d0d8?style=flat-square&logo=apple&logoColor=white)](https://github.com/abdomo77/NotchRobot)
+[![Featured project: NotchRobot](https://img.shields.io/badge/Featured%20project-NotchRobot-39d0d8?style=flat-square&logo=apple&logoColor=white)](https://github.com/abdomo77/NotchRobot)
 
 </div>
 
@@ -23,13 +23,29 @@ A macOS companion that brings Claude Code and Codex CLI sessions to your MacBook
 
 [Explore the project](https://github.com/abdomo77/NotchRobot) · [Get the latest release](https://github.com/abdomo77/NotchRobot/releases/latest)
 
-## What I work with
+## What I build
 
-**Web:** PHP · Laravel · JavaScript · TypeScript · React · Vue · Node.js
+Across my projects, I've worked on products in a few different areas:
 
-**Apple platforms:** Swift · SwiftUI · macOS
+- **SaaS and messaging:** customer inboxes, WhatsApp campaigns, support tools, and conversation workflows.
+- **Education and careers:** learning platforms, assessments, certificates, and candidate workflows.
+- **Retail and operations:** point-of-sale systems, inventory, warehouse workflows, returns, and cash controls.
+- **Fitness and wellness:** membership, subscriptions, attendance, and offline-first desktop workflows.
 
-I enjoy taking a product from its backend and data model through to a clear, polished interface.
+I work across the stack, from Laravel and Node.js APIs to React, TypeScript, and Vue interfaces, as well as Swift and SwiftUI apps for macOS.
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdomo77&theme=tokyonight" alt="Public GitHub stats, including total commits, stars, pull requests, and issues" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdomo77&theme=tokyonight" alt="Most used languages in public repositories" height="180">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdomo77&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+</p>
+
+<p align="center"><sub>Activity cards reflect public GitHub repositories. Project areas above include work across private and public codebases.</sub></p>
 
 ---
 
