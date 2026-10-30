@@ -37,15 +37,9 @@ I work across the stack, from Laravel and Node.js APIs to React, TypeScript, and
 ## GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdomo77&theme=tokyonight" alt="Public GitHub stats, including total commits, stars, pull requests, and issues" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdomo77&theme=tokyonight" alt="Most used languages in public repositories" height="180">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=abdomo77&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>
 
-<p align="center"><sub>Commit and language stats cover public repositories. The streak card follows the contribution graph on my GitHub profile.</sub></p>
 
 ---
 
