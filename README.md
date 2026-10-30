@@ -45,7 +45,7 @@ I work across the stack, from Laravel and Node.js APIs to React, TypeScript, and
   <img src="https://streak-stats.demolab.com?user=abdomo77&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>
 
-<p align="center"><sub>Activity cards reflect public GitHub repositories. Project areas above include work across private and public codebases.</sub></p>
+<p align="center"><sub>Commit and language stats cover public repositories. The streak card follows the contribution graph on my GitHub profile.</sub></p>
 
 ---
 
